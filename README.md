@@ -1,16 +1,16 @@
-## Hi there 👋
+### 🤖 About
 
-<!--
-**lucascanna/lucascanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with a background in Machine Learning and 7 years of experience in product-focused companies.
 
-Here are some ideas to get you started:
+### 💼 Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently at 🇨🇭 [Prem](https://premai.io), building an AI-powered solution to support compliance teams in the banking sector.
+
+Previously spent 6 years at 🇮🇹 [Mia-Platform](https://mia-platform.eu) across various roles:
+- **Solutions Architect** (2 years): led technical pre-sales and client-facing architecture work  
+- **Tech Lead** (2 years): managed a team of ~10 engineers delivering the platform to banking and insurance clients  
+- **Software Engineer** (2 years): developed core platform features, with a focus on insurance industry use cases
+
+### 🤙 Contact
+
+Feel free to reach out: lucascannapieco.94 (at) gmail.com
