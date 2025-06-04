@@ -11,6 +11,10 @@ Previously spent 6 years at 🇮🇹 [Mia-Platform](https://mia-platform.eu) acr
 - **Tech Lead** (2 years): managed a team of ~10 engineers delivering the platform to banking and insurance clients  
 - **Software Engineer** (2 years): developed core platform features, with a focus on insurance industry use cases
 
+### 💻 Side Projects
+
+Launched [universify.it](universify.it), a platform for reviews of university professors (100K users/year).
+
 ### 🤙 Contact
 
 Feel free to reach out: lucascannapieco.94 (at) gmail.com
