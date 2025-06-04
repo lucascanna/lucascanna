@@ -13,7 +13,7 @@ Previously spent 6 years at 🇮🇹 [Mia-Platform](https://mia-platform.eu) acr
 
 ### 💻 Side Projects
 
-Launched [universify.it](universify.it), a platform for reviews of university professors (100K users/year).
+Launched [universify.it](https://universify.it), a platform for reviews of university professors (100K users/year).
 
 ### 🤙 Contact
 
