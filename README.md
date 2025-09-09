@@ -4,7 +4,9 @@ Software Engineer with a background in Machine Learning and 7 years of experienc
 
 ### 💼 Work
 
-Currently at 🇨🇭 [Prem](https://premai.io), building an AI-powered solution to support compliance teams in the banking sector.
+Currently working as a software engineer in [Jo&Ko](https://joandko.io), a startup that I have co-founded in September 2025.
+
+At 🇨🇭 [Prem](https://premai.io), during the previous 9 months, I built AI-powered solutions to support compliance teams in the banking sector.
 
 Previously spent 6 years at 🇮🇹 [Mia-Platform](https://mia-platform.eu) across various roles:
 - **Solutions Architect** (2 years): led technical pre-sales and client-facing architecture work  
