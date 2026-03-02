@@ -4,7 +4,7 @@ Software Engineer with a background in Machine Learning and 7 years of experienc
 
 ### 💼 Work
 
-Currently working as a software engineer at [Kosuke.ai](https://kosuke.ai), a startup that I have co-founded in September 2025.
+Currently working as a CTO at [Kosuke.ai](https://kosuke.ai), a startup that I have co-founded in September 2025.
 We aim to bring the speed of vibecoding into established enterprise projects.
 
 At 🇨🇭 [Prem](https://premai.io), during the previous 9 months, I built AI-powered solutions to support compliance teams in the banking sector.
